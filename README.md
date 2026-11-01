@@ -16,5 +16,5 @@ I'm a first-year Computer Science student passionate about technology, problem-s
 ### Connect With Me
 - LinkedIn: https://linkedin.com/in/hiten-bansal-82611a324
 - GitHub: https://github.com/HITENB05
-- Instagram: 
+- Instagram: https://www.instagram.com/hitenbansal25?srtk=MTVoZG93YW53bm1tNg==
 
