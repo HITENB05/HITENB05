@@ -1,112 +1,98 @@
 
 <div align="center">
 
-<!-- PLAYER INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=PLAYER+01%3A+HITEN+BANSAL;WELCOME+TO+MY+DEV+WORLD;LOADING+NEXT+LEVEL..." alt="Pixel-style typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=79B8FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Hiten+Bansal+%F0%9F%91%8B;Curious+Mind.+Creative+Thinker.;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:081A33,100:123D70&height=8&section=header" width="100%" />
+<h3>Aspiring Developer | Lifelong Learner</h3>
 
-### 🎮 CSE STUDENT · ASPIRING SOFTWARE DEVELOPER
+<img src="https://img.shields.io/badge/BUILDING-MY%20OWN%20PATH-5488D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-5488D8?style=flat-square"/>
 
-**RGIPT '30 | India 🇮🇳**
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-HITENB05-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/HITENB05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hiten-bansal-82611a324/)
+<img src="assets/pixel-room.gif" width="100%" alt="Pixel art coding room"/>
 
 </div>
 
 ---
 
-## 🕹️ ABOUT PLAYER
+## 🌱 A Little About Me
 
-```text
-PLAYER NAME : Hiten Bansal
-CLASS       : Computer Science Student
-INSTITUTE   : RGIPT
-STATUS      : Learning & Building
-CURRENT LVL : 01
-```
+Hey! I'm Hiten.
 
-- 🎓 First-year B.Tech CSE student at RGIPT.
-- 💻 Exploring programming and software development.
+- 💻 Exploring the world of programming and technology.
 - 🌱 Currently learning C++, DSA and Python.
-- 🔨 Building projects and improving my coding skills.
-- 🎯 Goal: Become a skilled software developer.
+- 🚀 Interested in software development and creative projects.
+- 🧩 I enjoy solving problems and learning by building.
+- ✨ Always curious, always improving.
 
-> "Every expert was once a beginner."
+**My motto:** Learn → Build → Improve → Repeat.
 
 ---
 
-## ⚡ SKILL TREE
+## 💻 Languages & Tools
 
 <div align="center">
 
-### Languages & Technologies
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css&theme=dark" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 QUEST LOG — MY PROJECTS
+## 🚀 Things I've Built
 
 | Project | Description | Tech |
 |---|---|---|
-| [DSA with C++](https://github.com/HITENB05/DSA-with-Cpp) | Learning and practising DSA concepts. | C++ |
-| [Hangman Game](https://github.com/HITENB05/CodeAlpha_HangmanGame) | Classic word-guessing game. | Python |
-| [Web Development](https://github.com/HITENB05/WEB-DEVELOPMENT) | Web development practice and experiments. | HTML/CSS |
+| [DSA with C++](https://github.com/HITENB05/DSA-with-Cpp) | DSA practice and problem solving | C++ |
+| [Hangman Game](https://github.com/HITENB05/CodeAlpha_HangmanGame) | Classic word guessing game | Python |
+| [Web Development](https://github.com/HITENB05/WEB-DEVELOPMENT) | Web development practice | HTML/CSS |
 
 ---
 
-## 📊 PLAYER STATISTICS
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HITENB05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=081A33&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HITENB05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151D35&title_color=79B8FF&icon_color=E6A8D7&text_color=E2E8F0"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITENB05&layout=compact&theme=tokyonight&hide_border=true&bg_color=081A33&title_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITENB05&layout=compact&theme=tokyonight&hide_border=true&bg_color=151D35&title_color=79B8FF&text_color=E2E8F0"/>
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=HITENB05&theme=tokyonight&hide_border=true&background=081A33&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" />
+<img width="70%" src="https://streak-stats.demolab.com?user=HITENB05&theme=tokyonight&hide_border=true&background=151D35&ring=79B8FF&fire=E6A8D7&currStreakLabel=79B8FF"/>
 
 </div>
 
 ---
 
-## 🌌 CONTRIBUTION ACTIVITY
+## 🌐 Find Me Around The Web
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HITENB05&bg_color=081A33&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<a href="https://github.com/HITENB05">
+<img src="https://img.shields.io/badge/GitHub-HITENB05-344563?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hiten-bansal-82611a324/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-3978B8?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/hitenbansal25/">
+<img src="https://img.shields.io/badge/Instagram-Follow-B66AA8?style=for-the-badge&logo=instagram"/>
+</a>
 
 </div>
 
 ---
 
-## 🤝 CONNECT WITH ME
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hiten%20Bansal-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hiten-bansal-82611a324/)
+### Thanks for stopping by! ✨
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github)](https://github.com/HITENB05)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=79B8FF&center=true&vCenter=true&width=500&lines=Keep+Learning.;Keep+Creating.;See+you+in+the+next+commit!"/>
+
+**Made with curiosity & code. 💙**
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=THANKS+FOR+VISITING!;SEE+YOU+IN+THE+NEXT+COMMIT!" alt="Thanks for visiting" />
-
-**LEARN · BUILD · DEBUG · REPEAT**
-
-<sub>Game never over. Keep leveling up. 🎮</sub>
-
-</div>
