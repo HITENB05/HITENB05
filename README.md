@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Hiten Bansal 👋
 
-<!--
-**HITENB05/HITENB05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE'30 @ RGIPT | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a first-year Computer Science student passionate about technology, problem-solving and building things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- C++
+- Data Structures & Algorithms
+- Python
+- Web Development
+
+### My Approach
+`Learn → Build → Improve → Repeat`
+
+### Connect With Me
+- LinkedIn: https://linkedin.com/in/hiten-bansal-82611a324
+- GitHub: https://github.com/HITENB05
+
